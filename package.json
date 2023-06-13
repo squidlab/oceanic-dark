@@ -1,0 +1,21 @@
+{
+  "name": "oceanic-dark",
+  "displayName": "oceanic-dark",
+  "description": "Vibrant colors against a dark background, the depths of the ocean are full of color for those who know how to observe.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oceanic Dark-color-theme.json"
+      }
+    ]
+  }
+}
