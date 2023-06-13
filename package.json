@@ -1,10 +1,15 @@
 {
   "name": "oceanic-dark",
-  "displayName": "oceanic-dark",
+  "displayName": "Oceanic Dark",
   "description": "Vibrant colors against a dark background, the depths of the ocean are full of color for those who know how to observe.",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.79.0"
+  },
+  "publisher": "SquidLab",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squidlab/oceanic-dark"
   },
   "categories": [
     "Themes"
