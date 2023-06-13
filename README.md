@@ -5,7 +5,7 @@ Vibrant colors against a dark background, the depths of the ocean are full of co
 
 ## Screenshot
 
-Comming Soon...
+![Screenshot](https://github.com/squidlab/oceanic-dark/raw/main/screenshot.png)
 
 ## Installation
 1. Open the extensions sidebar on Visual Studio Code

@@ -4,7 +4,7 @@
   "description": "Vibrant colors against a dark background, the depths of the ocean are full of color for those who know how to observe.",
   "version": "0.0.4",
   "engines": {
-    "vscode": "^1.79.0"
+    "vscode": "*"
   },
   "publisher": "SquidLab",
   "repository": {
@@ -14,6 +14,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
