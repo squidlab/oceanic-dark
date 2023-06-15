@@ -2,7 +2,7 @@
   "name": "oceanic-dark",
   "displayName": "Oceanic Dark",
   "description": "A VSCode theme with Vibrant colors against a dark background, the depths of the ocean are full of color for those who know how to observe.",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "*"
   },
