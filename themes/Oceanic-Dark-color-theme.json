@@ -43,7 +43,7 @@
 		"editorWidget.background": "#21252B",
 		"editor.background": "#1C1F24",
 		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#192b37",
+		"activityBarBadge.background": "#254c67",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
