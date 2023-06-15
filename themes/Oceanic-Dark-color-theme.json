@@ -1032,6 +1032,15 @@
 			}
 		},
 		{
+			"name": "Vue",
+			"scope": [
+				"meta.attribute.directive.control.vue",
+			],
+			"settings": {
+				"foreground": "#99c794"
+			}
+		},
+		{
 			"name": "JavaScript",
 			"scope": [
 				"string.quoted.double.js",
