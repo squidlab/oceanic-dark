@@ -972,7 +972,6 @@
 				"support.function.dom.js",
 				"entity.name.type.js",
 				"support.function.js",
-				"variable.other.object.property.js",
 				"support.function.console.js",
 				"variable.other.property.js",
 				"punctuation.definition.parameters.begin.js",
@@ -988,6 +987,48 @@
 			],
 			"settings": {
 				"foreground": "#1BB2AF"
+			}
+		},
+		{
+			"name": "JavaScript",
+			"scope": [
+				"variable.other.object.property.js",
+			],
+			"settings": {
+				"foreground": "#1c908e"
+			}
+		},
+		{
+			"name": "TypeScript",
+			"scope": [
+				"meta.object-literal.key.ts",
+				"support.function.dom.ts",
+				"entity.name.type.ts",
+				"support.function.ts",
+				"support.function.console.ts",
+				"variable.other.property.ts",
+				"punctuation.definition.parameters.begin.ts",
+				"punctuation.definition.parameters.end.ts",
+				"entity.name.function.ts",
+				"support.variable.property.dom.ts",
+				"meta.brace.round.ts",
+				"support.function.tson.ts",
+				"variable.other.constant.property.ts",
+				"support.variable.property.ts",
+				"variable.other.readwrite.ts",
+				"keyword.control.default.ts"
+			],
+			"settings": {
+				"foreground": "#1BB2AF"
+			}
+		},
+		{
+			"name": "TypeScript",
+			"scope": [
+				"variable.other.object.property.ts",
+			],
+			"settings": {
+				"foreground": "#1c908e"
 			}
 		},
 		{
